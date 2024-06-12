@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+
+\bibitem{pickandplace}
+Yuzo Iano, Daniel Bonello, and Umberto Neto.
+\newblock Text recognition in pcbs: An object character recognition (ocr)
+  algorithm.
+\newblock {\em International Journal of Development Research}, 10:1--7, 07
+  2020.
+
+\bibitem{pickandplace2}
+Abel García~Nájera and Carlos Brizuela.
+\newblock Pcb assembly: An efficient genetic algorithm for slot assignment and
+  component pick and place sequence problems.
+\newblock volume~2, pages 1485--1492, 01 2005.
+
+\bibitem{HandDrawnRecognition}
+Haiyan Wang, Tianhong Pan, and Mian Ahsan.
+\newblock Hand-drawn electronic component recognition using deep learning
+  algorithm.
+\newblock {\em International Journal of Computer Applications in Technology},
+  62:13, 01 2020.
+
+\bibitem{ComponentsDetection}
+Siu Loh, Peh Teh, Sim Jia~Jia, Kim~Ho Yeap, and Yong Lee.
+\newblock Integrated circuit packaging recognition with tilt auto adjustment
+  using deep learning approach.
+\newblock {\em Journal of Engineering Technology and Applied Physics},
+  5:79--84, 09 2023.
+
+\end{thebibliography}
